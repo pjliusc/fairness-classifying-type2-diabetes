@@ -1,0 +1,4 @@
+model,accuracy,balanced_accuracy,precision,recall,f1,roc_auc,max_tpr_gap,max_fpr_gap,max_fnr_gap,max_predicted_positive_rate_gap
+logreg_balanced,0.5294,0.7225,0.1309,0.9492,0.23,0.7805,0.0576,0.2531,0.0576,0.2595
+logreg_unweighted,0.926,0.5,0.0,0.0,0.0,0.7802,0.0,0.0,0.0,0.0
+random_forest_balanced,0.5975,0.7125,0.1382,0.8475,0.2377,0.7617,0.0955,0.2109,0.0955,0.214

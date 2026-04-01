@@ -1,0 +1,5 @@
+step,n_remaining,pct_of_initial
+Initial raw sample,188419,1.0
+"Keep DIABTYPE in {0,1,2,3}",187547,0.9954
+Keep valid RACENEW codes,177559,0.9424
+Drop rows with missing model features,170028,0.9024

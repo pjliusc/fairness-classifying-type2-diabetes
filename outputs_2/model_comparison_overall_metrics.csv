@@ -1,0 +1,4 @@
+model,accuracy,balanced_accuracy,precision,recall,f1,roc_auc
+logreg_balanced,0.5294,0.7225,0.1309,0.9492,0.23,0.7805
+logreg_unweighted,0.926,0.5,0.0,0.0,0.0,0.7802
+random_forest_balanced,0.5975,0.7125,0.1382,0.8475,0.2377,0.7617
